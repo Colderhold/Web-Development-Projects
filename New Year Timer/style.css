@@ -1,0 +1,24 @@
+body{
+    background-color: #ebebeb;
+    max-width: 900px;
+    margin: 3rem auto;
+    text-align: center;
+}
+
+#countdown{
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 3rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.8) 0px 4px 12px;
+}
+
+#countdown div{
+    display: inline-block;
+    margin: 0 0.5rem;
+}
+
+#countdown div span{
+    color: purple;
+}
